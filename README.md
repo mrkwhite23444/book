@@ -13,3 +13,4 @@ The reference appendices (capability catalog, host ABI error codes, topic regist
 Dual-licensed under [MIT](LICENSE-MIT) and [Apache 2.0](LICENSE-APACHE).
 
 Copyright (c) 2025-2026 Joshua J. Bouw and Unicity Labs.
+Meu primeiro commit.
